@@ -1,0 +1,33 @@
+.message {
+	border-radius: 10px;
+	padding: 10px;
+	margin-bottom: 10px;
+	min-width: 70px;
+	max-width: 80%;
+}
+
+.message-current {
+	background: #0078f8;
+	margin-left: auto;
+}
+
+.message-other {
+	margin-right: auto;
+	background: lightgrey;
+
+}
+
+.message-info {
+	display: flex;
+	overflow-wrap: break-word;
+}
+
+.user {
+	font-weight: bold;
+	margin-right: 5px;
+	font-size: 17px;
+}
+
+.text, .user {
+	overflow-wrap: break-word;
+}

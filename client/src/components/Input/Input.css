@@ -1,0 +1,25 @@
+.input-message {
+	width: 90%;
+	padding: 10px;
+	border-radius: 10px;
+	border: 1px solid lightgrey;
+	outline: none;
+}
+
+.send-btn {
+	background: #fff url('../../images/arrow.png') no-repeat center / 65%;
+	width: 10%;
+	border: none;
+	cursor: pointer;
+	outline: none;
+	opacity: 0.6;
+}
+
+.send-btn:hover {
+	opacity: 1;
+}
+
+.input-form {
+	width: 100%;
+	display: flex;
+}

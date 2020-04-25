@@ -1,0 +1,8 @@
+.messages {
+	height: 97%;
+	overflow-y: auto;
+}
+
+.messages__inner {
+	display: flex;
+}
