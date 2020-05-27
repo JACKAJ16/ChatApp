@@ -1,6 +1,6 @@
 This chat app is using web sockets to chat in real time. 
 
-You can start chatting by logining in the same room on one computer from different pages or from different computers/phones etc. Try demo. 
+You can start chatting by logining in the same room on one computer from different pages or from different computers/phones etc. Try demo: https://jackaj16.github.io/ChatApp/ 
 
 ### `How to start this app on your computer`
 
