@@ -1,3 +1,7 @@
+## Chat app
+
+![bandicam-2020-05-28-18-52-39-081](https://user-images.githubusercontent.com/8159055/83164507-f7fa1100-a114-11ea-88af-ebba6c3f8225.gif)
+
 This chat app is using web sockets to chat in real time. 
 
 You can start chatting by logining in the same room on one computer from different pages or from different computers/phones etc. Try demo: https://jackaj16.github.io/ChatApp/ 
